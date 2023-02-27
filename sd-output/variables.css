@@ -1,27 +1,27 @@
 /**
  * Do not edit directly
- * Generated on Mon, 27 Feb 2023 16:24:40 GMT
+ * Generated on Mon, 27 Feb 2023 16:30:36 GMT
  */
 
 :root {
-  --specify-inter-semi-bold-name: "Inter-SemiBold";
-  --specify-inter-semi-bold-ttf: "Inter-SemiBold.ttf";
-  --specify-inter-regular-name: "Inter-Regular";
-  --specify-inter-regular-ttf: "Inter-Regular.ttf";
   --specify-inter-medium-name: "Inter-Medium";
   --specify-inter-medium-ttf: "Inter-Medium.ttf";
+  --specify-inter-regular-name: "Inter-Regular";
+  --specify-inter-regular-ttf: "Inter-Regular.ttf";
+  --specify-inter-semi-bold-name: "Inter-SemiBold";
+  --specify-inter-semi-bold-ttf: "Inter-SemiBold.ttf";
   --specify-primary-50: #f5f3ff;
   --specify-primary-100: #ede9fe;
   --specify-primary-200: #ddd6fe;
   --specify-primary-300: #c4b5fd;
   --specify-primary-400: #a78bfa;
-  --specify-primary-500: #f35cf6;
+  --specify-primary-500: #8b5cf6;
   --specify-primary-600: #7c3aed;
   --specify-primary-700: #6d28d9;
   --specify-primary-800: #5b21b6;
   --specify-primary-900: #4c1d95;
   --specify-success-50: #f0fdf4;
-  --specify-success-100: #dcfce7;
+  --specify-success-100: #cdfadc;
   --specify-success-200: #bbf7d0;
   --specify-success-300: #86efac;
   --specify-success-400: #4ade80;
@@ -30,16 +30,6 @@
   --specify-success-700: #15803d;
   --specify-success-800: #166534;
   --specify-success-900: #14532d;
-  --specify-danger-50: #fef2f2;
-  --specify-danger-100: #fee2e2;
-  --specify-danger-200: #fecaca;
-  --specify-danger-300: #fca5a5;
-  --specify-danger-400: #f87171;
-  --specify-danger-500: #ef4444;
-  --specify-danger-600: #dc2626;
-  --specify-danger-700: #b91c1c;
-  --specify-danger-800: #991b1b;
-  --specify-danger-900: #7f1d1d;
   --specify-warning-50: #fffbeb;
   --specify-warning-100: #fef3c7;
   --specify-warning-200: #fde68a;
@@ -50,8 +40,16 @@
   --specify-warning-700: #b45309;
   --specify-warning-800: #92400e;
   --specify-warning-900: #78350f;
-  --specify-base-white: #ffffff;
-  --specify-base-black: #000000;
+  --specify-danger-50: #fef2f2;
+  --specify-danger-100: #fee2e2;
+  --specify-danger-200: #fecaca;
+  --specify-danger-300: #fca5a5;
+  --specify-danger-400: #f87171;
+  --specify-danger-500: #ef4444;
+  --specify-danger-600: #dc2626;
+  --specify-danger-700: #b91c1c;
+  --specify-danger-800: #991b1b;
+  --specify-danger-900: #7f1d1d;
   --specify-neutral-50: #f8fafc;
   --specify-neutral-100: #f1f5f9;
   --specify-neutral-200: #e2e8f0;
@@ -62,6 +60,8 @@
   --specify-neutral-700: #334155;
   --specify-neutral-800: #1e293b;
   --specify-neutral-900: #0f172a;
+  --specify-base-white: #ffffff;
+  --specify-base-black: #000000;
   --specify-informative-50: #eff6ff;
   --specify-informative-100: #dbeafe;
   --specify-informative-200: #bfdbfe;
