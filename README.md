@@ -1,2 +1,0 @@
-# ourodemos
-Specify starter kit

@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/camp-zip-gn1xe.specify-lemx9f24",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve tkBowV10vl8h0TK5jEvQ --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}

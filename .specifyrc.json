@@ -1,0 +1,18 @@
+{
+  "repository": "@ouroboros/test",
+  "head": "specify",
+  "rules": [
+    {
+      "name": "Design Tokens / Colors",
+      "path": "sd-input/",
+      "parsers": [
+        {
+          "name": "to-style-dictionary",
+          "options": {
+            "splitBy": "/"
+          }
+        }
+      ]
+    }
+  ]
+}
