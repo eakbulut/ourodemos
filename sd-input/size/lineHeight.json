@@ -1,0 +1,13 @@
+{
+  "size": {
+    "lineHeight": {
+      "bodyM": { "value": "20px" },
+      "bodyL": { "value": "20px" },
+      "subtitle": { "value": "32px" },
+      "heading1": { "value": "40px" },
+      "heading2": { "value": "32px" },
+      "section": { "value": "20px" },
+      "bodyS": { "value": "20px" }
+    }
+  }
+}

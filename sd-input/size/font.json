@@ -1,0 +1,13 @@
+{
+  "size": {
+    "font": {
+      "bodyM": { "value": "14px" },
+      "bodyL": { "value": "14px" },
+      "subtitle": { "value": "18px" },
+      "heading1": { "value": "32px" },
+      "heading2": { "value": "24px" },
+      "section": { "value": "12px" },
+      "bodyS": { "value": "14px" }
+    }
+  }
+}
