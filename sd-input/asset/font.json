@@ -1,6 +1,10 @@
 {
   "asset": {
     "font": {
+      "interMedium": {
+        "name": { "value": "Inter-Medium" },
+        "ttf": { "value": "Inter-Medium.ttf" }
+      },
       "interSemiBold": {
         "name": { "value": "Inter-SemiBold" },
         "ttf": { "value": "Inter-SemiBold.ttf" }
@@ -8,10 +12,6 @@
       "interRegular": {
         "name": { "value": "Inter-Regular" },
         "ttf": { "value": "Inter-Regular.ttf" }
-      },
-      "interMedium": {
-        "name": { "value": "Inter-Medium" },
-        "ttf": { "value": "Inter-Medium.ttf" }
       }
     }
   }
