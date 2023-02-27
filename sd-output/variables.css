@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 27 Feb 2023 16:30:36 GMT
+ * Generated on Mon, 27 Feb 2023 16:49:09 GMT
  */
 
 :root {
@@ -15,7 +15,7 @@
   --specify-primary-200: #ddd6fe;
   --specify-primary-300: #c4b5fd;
   --specify-primary-400: #a78bfa;
-  --specify-primary-500: #8b5cf6;
+  --specify-primary-500: #f157f4;
   --specify-primary-600: #7c3aed;
   --specify-primary-700: #6d28d9;
   --specify-primary-800: #5b21b6;
@@ -30,16 +30,6 @@
   --specify-success-700: #15803d;
   --specify-success-800: #166534;
   --specify-success-900: #14532d;
-  --specify-warning-50: #fffbeb;
-  --specify-warning-100: #fef3c7;
-  --specify-warning-200: #fde68a;
-  --specify-warning-300: #fcd34d;
-  --specify-warning-400: #fbbf24;
-  --specify-warning-500: #f59e0b;
-  --specify-warning-600: #d97706;
-  --specify-warning-700: #b45309;
-  --specify-warning-800: #92400e;
-  --specify-warning-900: #78350f;
   --specify-danger-50: #fef2f2;
   --specify-danger-100: #fee2e2;
   --specify-danger-200: #fecaca;
@@ -50,6 +40,18 @@
   --specify-danger-700: #b91c1c;
   --specify-danger-800: #991b1b;
   --specify-danger-900: #7f1d1d;
+  --specify-warning-50: #fffbeb;
+  --specify-warning-100: #fef3c7;
+  --specify-warning-200: #fde68a;
+  --specify-warning-300: #fcd34d;
+  --specify-warning-400: #fbbf24;
+  --specify-warning-500: #f59e0b;
+  --specify-warning-600: #d97706;
+  --specify-warning-700: #b45309;
+  --specify-warning-800: #92400e;
+  --specify-warning-900: #78350f;
+  --specify-base-white: #ffffff;
+  --specify-base-black: #000000;
   --specify-neutral-50: #f8fafc;
   --specify-neutral-100: #f1f5f9;
   --specify-neutral-200: #e2e8f0;
@@ -60,10 +62,8 @@
   --specify-neutral-700: #334155;
   --specify-neutral-800: #1e293b;
   --specify-neutral-900: #0f172a;
-  --specify-base-white: #ffffff;
-  --specify-base-black: #000000;
   --specify-informative-50: #eff6ff;
-  --specify-informative-100: #dbeafe;
+  --specify-informative-100: #d9e9ff;
   --specify-informative-200: #bfdbfe;
   --specify-informative-300: #93c5fd;
   --specify-informative-400: #60a5fa;
@@ -77,14 +77,14 @@
   --specify-subtitle: 18px;
   --specify-heading1: 32px;
   --specify-heading2: 24px;
-  --specify-body-s: 14px;
   --specify-section: 12px;
+  --specify-body-s: 14px;
   --specify-spacing-section: 0.5px;
   --specify-height-body-m: 20px;
   --specify-height-body-l: 20px;
   --specify-height-subtitle: 32px;
   --specify-height-heading1: 40px;
   --specify-height-heading2: 32px;
-  --specify-height-body-s: 20px;
   --specify-height-section: 20px;
+  --specify-height-body-s: 20px;
 }
