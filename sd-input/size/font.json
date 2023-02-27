@@ -6,8 +6,8 @@
       "subtitle": { "value": "18px" },
       "heading1": { "value": "32px" },
       "heading2": { "value": "24px" },
-      "bodyS": { "value": "14px" },
-      "section": { "value": "12px" }
+      "section": { "value": "12px" },
+      "bodyS": { "value": "14px" }
     }
   }
 }
