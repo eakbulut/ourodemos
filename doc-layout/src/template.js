@@ -26,7 +26,6 @@ export const docLayoutTemplate = (content, context) => html`
     initial-color-scheme="dark"
     .context="${context}"
   >
-    <div slot="logo">${unsafeHTML(logoSvg)}<span>Specify Starter</span></div>
     <div class="dark:prose-invert">${unsafeHTML(content)}</div>
   </dockit-layout>
 `;
