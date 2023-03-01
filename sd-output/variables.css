@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 01 Mar 2023 21:04:12 GMT
+ * Generated on Wed, 01 Mar 2023 21:09:19 GMT
  */
 
 :root {
@@ -10,16 +10,6 @@
   --specify-inter-medium-ttf: "Inter-Medium.ttf";
   --specify-inter-semi-bold-name: "Inter-SemiBold";
   --specify-inter-semi-bold-ttf: "Inter-SemiBold.ttf";
-  --specify-primary-50: #f5f3ff;
-  --specify-primary-100: #ede9fe;
-  --specify-primary-200: #ddd6fe;
-  --specify-primary-300: #c4b5fd;
-  --specify-primary-400: #a78bfa;
-  --specify-primary-500: #8b5cf6;
-  --specify-primary-600: #7c3aed;
-  --specify-primary-700: #6d28d9;
-  --specify-primary-800: #5b21b6;
-  --specify-primary-900: #4c1d95;
   --specify-success-50: #f0fdf4;
   --specify-success-100: #dcfce7;
   --specify-success-200: #bbf7d0;
@@ -30,16 +20,16 @@
   --specify-success-700: #15803d;
   --specify-success-800: #166534;
   --specify-success-900: #14532d;
-  --specify-danger-50: #fef2f2;
-  --specify-danger-100: #fee2e2;
-  --specify-danger-200: #fecaca;
-  --specify-danger-300: #fca5a5;
-  --specify-danger-400: #f87171;
-  --specify-danger-500: #ef4444;
-  --specify-danger-600: #dc2626;
-  --specify-danger-700: #b91c1c;
-  --specify-danger-800: #991b1b;
-  --specify-danger-900: #7f1d1d;
+  --specify-primary-50: #f5f3ff;
+  --specify-primary-100: #ede9fe;
+  --specify-primary-200: #ddd6fe;
+  --specify-primary-300: #c4b5fd;
+  --specify-primary-400: #a78bfa;
+  --specify-primary-500: #f65ce7;
+  --specify-primary-600: #7c3aed;
+  --specify-primary-700: #6d28d9;
+  --specify-primary-800: #5b21b6;
+  --specify-primary-900: #4c1d95;
   --specify-warning-50: #fffbeb;
   --specify-warning-100: #fef3c7;
   --specify-warning-200: #fde68a;
@@ -50,6 +40,18 @@
   --specify-warning-700: #b45309;
   --specify-warning-800: #92400e;
   --specify-warning-900: #78350f;
+  --specify-danger-50: #fef2f2;
+  --specify-danger-100: #fee2e2;
+  --specify-danger-200: #fecaca;
+  --specify-danger-300: #fca5a5;
+  --specify-danger-400: #f87171;
+  --specify-danger-500: #ef4444;
+  --specify-danger-600: #dc2626;
+  --specify-danger-700: #b91c1c;
+  --specify-danger-800: #991b1b;
+  --specify-danger-900: #7f1d1d;
+  --specify-base-white: #ffffff;
+  --specify-base-black: #000000;
   --specify-neutral-50: #f8fafc;
   --specify-neutral-100: #f1f5f9;
   --specify-neutral-200: #e2e8f0;
@@ -70,8 +72,6 @@
   --specify-informative-700: #1d4ed8;
   --specify-informative-800: #1e40af;
   --specify-informative-900: #1e3a8a;
-  --specify-base-white: #ffffff;
-  --specify-base-black: #000000;
   --specify-body-m: 14px;
   --specify-body-l: 14px;
   --specify-subtitle: 18px;
