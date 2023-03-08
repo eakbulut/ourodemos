@@ -1,15 +1,15 @@
 /**
  * Do not edit directly
- * Generated on Wed, 01 Mar 2023 21:09:19 GMT
+ * Generated on Wed, 08 Mar 2023 12:03:03 GMT
  */
 
 :root {
+  --specify-inter-semi-bold-name: "Inter-SemiBold";
+  --specify-inter-semi-bold-ttf: "Inter-SemiBold.ttf";
   --specify-inter-regular-name: "Inter-Regular";
   --specify-inter-regular-ttf: "Inter-Regular.ttf";
   --specify-inter-medium-name: "Inter-Medium";
   --specify-inter-medium-ttf: "Inter-Medium.ttf";
-  --specify-inter-semi-bold-name: "Inter-SemiBold";
-  --specify-inter-semi-bold-ttf: "Inter-SemiBold.ttf";
   --specify-success-50: #f0fdf4;
   --specify-success-100: #dcfce7;
   --specify-success-200: #bbf7d0;
@@ -50,8 +50,6 @@
   --specify-danger-700: #b91c1c;
   --specify-danger-800: #991b1b;
   --specify-danger-900: #7f1d1d;
-  --specify-base-white: #ffffff;
-  --specify-base-black: #000000;
   --specify-neutral-50: #f8fafc;
   --specify-neutral-100: #f1f5f9;
   --specify-neutral-200: #e2e8f0;
@@ -62,6 +60,8 @@
   --specify-neutral-700: #334155;
   --specify-neutral-800: #1e293b;
   --specify-neutral-900: #0f172a;
+  --specify-base-white: #ffffff;
+  --specify-base-black: #000000;
   --specify-informative-50: #eff6ff;
   --specify-informative-100: #dbeafe;
   --specify-informative-200: #bfdbfe;
